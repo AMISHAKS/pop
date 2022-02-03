@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,100&family=Courgette&family=Coustard&family=Josefin+Sans:wght@700&family=Luxurious+Roman&family=Roboto+Slab:wght@200&family=Sedgwick+Ave&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitter&family=Courgette&family=Coustard&family=Josefin+Sans:wght@700&family=Luxurious+Roman&family=Roboto+Slab:wght@200&family=Sedgwick+Ave&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Bitter&family=Courgette&family=Coustard&family=Luxurious+Roman&family=Roboto+Slab:wght@200&family=Sedgwick+Ave&family=Staatliches&display=swap');
+
+.me{
+    color: blanchedalmond;
+    font-family: 'Bitter', serif;
+    padding: 3rem;
+}
+
+img{
+    margin-top: 2rem;
+   width: 10%;
+  
+    border-radius: 4500px;
+}
+
+.head{
+   text-align: center;
+    padding: 3rem;
+    font-family: 'Bitter', serif;
+
+}
+
+p{
+   text-align: center;
+   font-family: 'Architects Daughter', cursive;
+   font-size:large;
+}
+.cont{
+    padding-left: 3rem;
+}
+
+.first{
+    background-color: rgb(13, 13, 29);
+}
+.z{
+    background-color: rgb(159, 159, 204);
+    color: rgb(6, 21, 31);
+}
+.progress{
+    background-color:rgb(165, 165, 211);
+    color: rgb(8, 6, 32);
+    
+}
